@@ -1,6 +1,6 @@
  <p align="center"> 
 Tıklanma Sayısı<br>
-Profili Gezen Kişi Sayısı<br>
+Profile Tıklayan Muhteşem İnsanlar<br>
 
  <img src="https://profile-counter.glitch.me/chavyy/count.svg" />
 </p>
