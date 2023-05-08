@@ -10,4 +10,4 @@ Merhaba Ben chavyy 2 yıldan beri bot yapıyorum bu github hesabımda güzel her
 
 
 <h1> ✍ Technologies I use </h1>
-<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
